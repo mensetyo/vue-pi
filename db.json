@@ -1,0 +1,37 @@
+{
+    "penyakit":[
+        {
+            "id": 1,
+            "nama" : "Kutu Air",
+            "jumlah": 10,
+            "alamat": "Jl. Depok No 12",
+            "gambar": "xample.png"
+        },{
+            "id": 2,
+            "nama" : "Kepala Pusing",
+            "jumlah": 11,
+            "alamat": "Jl. Depok No 13",
+            "gambar": "xample.png"
+        },{
+            "id": 3,
+            "nama" : "Batuk",
+            "jumlah": 5,
+            "alamat": "Jl. Depok No 14",
+            "gambar": "xample.png"
+        },
+        {
+            "id": 4,
+            "nama" : "Pilek",
+            "jumlah": 6,
+            "alamat": "Jl. Depok No 15",
+            "gambar": "xample.png"
+        },
+        {
+            "id": 5,
+            "nama" : "Demam",
+            "jumlah": 3,
+            "alamat": "Jl. Depok No 16",
+            "gambar": "xample.png"
+        }
+    ]
+  }
